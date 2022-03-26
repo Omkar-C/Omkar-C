@@ -4,8 +4,8 @@
  <h3 align="center"> Hello There! I am Omkar! 👋 </h3> 
 
 <p align="center">
-  <a href="https://binarysearch.com/@/Omkar">
-      <img alt="Binary-Search Profile" src="https://binarysearch.com/api/shields/Omkar" />
+ <a href="https://codeforces.com/profile/OmkarC">
+      <img alt="Codeforces Profile" src="https://img.shields.io/endpoint?url=https://mrunank.pythonanywhere.com/codeforces/OmkarC" />
   </a>
   <a href="https://leetcode.com/Omkar_C/">
       <img alt="LeetCode Profile" src="https://img.shields.io/badge/Leetcode-Profile-yellow?logo=LeetCode" />
@@ -13,10 +13,9 @@
   <a href="https://www.hackerrank.com/omkarchorghe22">
       <img alt="HackerRank Profile" src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=HackerRank&color=#2EC866" />
   </a>
-  <a href="https://codeforces.com/profile/OmkarC">
-      <img alt="Codeforces Profile" src="https://img.shields.io/endpoint?url=https://mrunank.pythonanywhere.com/codeforces/OmkarC" />
+  <a href="https://binarysearch.com/@/Omkar">
+      <img alt="Binary-Search Profile" src="https://binarysearch.com/api/shields/Omkar" />
   </a>
-  
 </p>
  
 <!--
