@@ -1,5 +1,6 @@
-### Hi there 👋
-
+ 
+ [![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-C)](https://github.com/Omkar-C/github-readme-stats)
+ 
 <!--
 **Omkar-C/Omkar-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
