@@ -13,9 +13,6 @@
   <a href="https://www.hackerrank.com/omkarchorghe22">
       <img alt="HackerRank Profile" src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=HackerRank&color=#2EC866" />
   </a>
-  <a href="https://binarysearch.com/@/Omkar">
-      <img alt="Binary-Search Profile" src="https://binarysearch.com/api/shields/Omkar" />
-  </a>
 </p>
 
 
