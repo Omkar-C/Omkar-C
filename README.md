@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Omkar-C/">
-      <img alt="Mrunank's github stats" src="https://github-readme-stats.vercel.app/api?username=Omkar-C&show_icons=true&theme=blueberry" />
+      <img alt="Omkar's github stats" src="https://github-readme-stats.vercel.app/api?username=Omkar-C&show_icons=true&theme=blueberry" />
    </a>
 <!--     <a href="https://github.com/Omkar-C/">
       <img alt="Omkar's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-C&&langs_count=9&&hide=HTML,CSS,Jupyter%20Notebook&layout=compact&theme=blueberry" />
@@ -27,7 +27,7 @@
 
 <!--
 [![binarysearch](https://binarysearch.com/api/shields/fork52)](https://binarysearch.com/@/fork52)
-[![Mrunank's github stats](https://github-readme-stats.vercel.app/api?username=fork52&show_icons=true)](https://github.com/fork52/github-readme-stats)
+[![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=fork52&show_icons=true)](https://github.com/fork52/github-readme-stats)
 -->
  
 <!--
