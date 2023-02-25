@@ -21,7 +21,7 @@
       <img alt="Mrunank's github stats" src="https://github-readme-stats.vercel.app/api?username=Omkar-C&show_icons=true&theme=blueberry" />
    </a>
 <!--     <a href="https://github.com/Omkar-C/">
-      <img alt="Mrunank's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-C&&langs_count=9&&hide=HTML,CSS,Jupyter%20Notebook&layout=compact&theme=blueberry" />
+      <img alt="Omkar's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-C&&langs_count=9&&hide=HTML,CSS,Jupyter%20Notebook&layout=compact&theme=blueberry" />
    </a> -->
 </p>
 
