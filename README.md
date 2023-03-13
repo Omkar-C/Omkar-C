@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Omkar
-#### Programmer
+#### I'm a Programmer
 
 - 🔭 I’m currently working on this page. 
 
